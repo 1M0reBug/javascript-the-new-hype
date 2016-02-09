@@ -1,0 +1,48 @@
+.reveal .slide-number {
+    font-size: 40px;
+}
+
+.reveal .black, .reveal .black h2{
+    color: black;
+    background: rgba(252,252,252,0.9);
+}
+
+#date, #auteur {
+    font-family : "Source Sans Pro", Helvetice, sans-serif;
+    position: fixed;
+    bottom: 30px;
+    z-index: 31;
+    font-size: 1em;
+    color: #42affa;
+    opacity: 0.5;
+}
+
+#date {
+    left: 15px;
+}
+
+#auteur {
+    left : 45%;
+}
+
+#auteur:after {
+    content: "Jordan Quagliatini";
+}
+
+h1 em {
+    text-decoration: underline;
+}
+
+.reveal section img {
+    background: initial;
+    border: initial;
+    box-shadow: initial;
+}
+
+.reveal .hidden_title h2 {
+    display: none;
+}
+
+.reveal .white-bgd {
+  background-color: rgba(255, 255, 255, 0.5);
+}
