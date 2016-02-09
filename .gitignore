@@ -1,2 +1,3 @@
 *.adoc
+^README.adoc
 build.sh

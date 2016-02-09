@@ -1,0 +1,5 @@
+= Javascript the new hype
+
+These are the meeting slides for the CPE Lyon 3IRC English lesson. It presents Javscript and why it is hated by numerous students.
+
+go and see the http://1m0rebug.github.io/javascript-the-new-hype/javascript-the-new-hype.html[presentation] !
