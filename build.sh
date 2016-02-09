@@ -1,6 +1,6 @@
 #!/bin/bash
 
-dockerStatus=$(service docker status | grep -c qstop)
+dockerStatus=$(service docker status | grep -c stop)
 
 if [[ "$dockerStatus" -eq "1" ]];then
     sudo service docker start
