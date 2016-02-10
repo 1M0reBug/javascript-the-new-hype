@@ -1,4 +1,4 @@
-= Javascript, the new hype
+= JavaScript, the new hype
 Jordan Quagliatini, Benjamin Freeman
 
 :revealjsdir: ./reveal.js
@@ -15,11 +15,38 @@ Jordan Quagliatini, Benjamin Freeman
 :revealjs_height: 750
 :lang: fr
 
-== What is javascript  ?
+== Have you tried JavaScript ?
+
+== 1047894 questions on Stackoverflow are related to it! 
+
+== What is JavaScript  ?
+
+=== Dynamic web pages
+Image:JavaScript_client.png
+
+=== Evolution
+Image:The_three_lives_of_JavaScript.png
+
+=== A complete language
+Image:JavaScript_client_server.png
 
 == Why do you hate it ?
 
+=== Lack of rigor
+* no type for variables
+* not the same ECMA standard everywhere
+* poor Object Oriented Programming (OOP)
+
+=== Async
+* requires to think differently
+* leads to the "callback hell"
+* harder to debug
+
 == Why is it so famous ?
+* it's fast with v8, the open-source interpreter from Google
+* libraries, for example jQuery
+* JSON, which is convenient for storing data
+* AJAX, making websites better places
 
 == Some projects in JS
 
@@ -27,10 +54,14 @@ Jordan Quagliatini, Benjamin Freeman
 * React.js
 * JQuery
 * Node.js
-* Bacbone.js
+* Backbone.js
 * Webpack.js
 
 == Why you MUST learn Javascript ?
+* can be used for an entire website, in particular lightweight web apps
+* better performances than PHP
+* you have a better understanding of how things work
+* it's fashionable
 
 == Conclusion
 
