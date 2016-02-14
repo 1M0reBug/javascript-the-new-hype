@@ -17,18 +17,18 @@ Jordan Quagliatini, Benjamin Freeman
 
 == Have you tried JavaScript ?
 
-== 1047894 questions on Stackoverflow are related to it! 
+== 1047894 questions on Stackoverflow are related to it!
 
 == What is JavaScript  ?
 
 === Dynamic web pages
-Image:JavaScript_client.png
+image:JavaScript_client.png[]
 
 === Evolution
-Image:The_three_lives_of_JavaScript.png
+image:The_three_lives_of_JavaScript.png[]
 
 === A complete language
-Image:JavaScript_client_server.png
+image:JavaScript_client_server.png[]
 
 == Why do you hate it ?
 
