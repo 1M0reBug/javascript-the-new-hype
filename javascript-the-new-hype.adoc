@@ -1,4 +1,4 @@
-= JavaScript, the new hype
+= JavaScript
 Jordan Quagliatini, Benjamin Freeman
 
 :revealjsdir: ./reveal.js
@@ -14,6 +14,11 @@ Jordan Quagliatini, Benjamin Freeman
 :revealjs_width: 1024
 :revealjs_height: 750
 :lang: fr
+
+The new hype
+
+
+image:js-logo.png[]
 
 == Have you tried JavaScript ?
 
@@ -42,8 +47,37 @@ image:JavaScript_client_server.png[]
 * leads to the "callback hell"
 * harder to debug
 
-== Why is it so famous ?
+== Think about this
+
+=== !
+
+.TIOBE index for February 2016
+|===
+| Feb 2016 | Feb 2015 | Programming Language | Ratings | Change
+| 1 | 2 | Java | 21.145% | +5.80%
+| 2 | 1 | C | 15.594% | -0.89%
+| 3 | 3 | C++ | 6.907% | +0.29%
+| ...  ||||
+| 9 | 6 | Javascript | 2.201% | -1.31%
+|===
+
+
+
+== Why is it so famous?
 * it's fast with v8, the open-source interpreter from Google
+[.step]
+* You don't believe us ?
+
+=== !
+.Speed Graph
+image:speed-graph.png[]
+
+=== !
+.Now without Java
+image:speed-graph-without-java.png[]
+
+== Why is it so famous? (2/2)
+
 * libraries, for example jQuery
 * JSON, which is convenient for storing data
 * AJAX, making websites better places
@@ -57,11 +91,19 @@ image:JavaScript_client_server.png[]
 * Backbone.js
 * Webpack.js
 
-== Why you MUST learn Javascript ?
+== Why you **MUST** learn Javascript ?
 * can be used for an entire website, in particular lightweight web apps
 * better performances than PHP
 * you have a better understanding of how things work
 * it's fashionable
+
+== Any idea on how to use JS outside the browser?
+
+[.step]
+* NodeJs
+* MongoDB uses it as script language
+* Some Routers uses it as macro language
+* ...
 
 == Conclusion
 
